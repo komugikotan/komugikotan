@@ -7,6 +7,6 @@ Hello, I am Middle School student in US. But I am Japanese. I post codes or basi
 
 - 🔭 I’m currently working for exam.
 - 🌱 I’m currently learning Java.
-- ⚡ I'm currently 13 year's old.
+- ⚡ I'm currently 14 year's old.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm studying English and Korean languages.
